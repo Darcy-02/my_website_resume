@@ -31,7 +31,7 @@ body {
   background-color: #000;
   padding: 20px;
   text-align: center;
-  background-image: url(Images/art.jpg);
+  background-image: url(art.jpg);
 
   background-size: cover;
   background-position: center;
@@ -150,7 +150,7 @@ p {
 }
 
 #intro:hover {
-  background-image: url(Images/sketch2.jpg);
+  background-image: url(sketch2.jpg);
   padding: 12.5%;
   background-size: cover;
   background-position: center;
